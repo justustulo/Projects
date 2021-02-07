@@ -1,1 +1,0 @@
-Github usually has issues loading the notebook. Please go to this link to view it: https://nbviewer.jupyter.org/github/justustulo/Projects/blob/master/Near%20Earth%20Objects/Near%20Earth%20Object%20Classification.ipynb
